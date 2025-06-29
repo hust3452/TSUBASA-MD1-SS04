@@ -1,0 +1,12 @@
+#mybox {
+    width: 600px;
+    height: 250px;
+    background-color: aliceblue;
+    padding: 10px;
+    border: 2px solid black ;
+    margin: 20px;
+
+}
+.blue {
+    color: blue;
+}
