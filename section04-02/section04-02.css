@@ -1,0 +1,17 @@
+header{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+
+p {
+    text-align: center;
+    background-color: beige;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    margin-right: 10px;
+
+}
